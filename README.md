@@ -1,0 +1,52 @@
+
+# interviewPrepration
+
+curated from all over the internet for preparing SDE interviews ( You can follow other alternatives also. I'm adding topic name with link which I referred)
+
+
+[List of good companies](https://github.com/shubhvash/moreThanFAANGM)
+
+[Grokking System design (HLD, LLD, Case study, OOPS, Coding questions)](https://akshay-iyangar.github.io/system-design/)
+## Data Structure and Algorithms
+
+- Do as much as you can( Meduim and hard problems)
+<!-- - [Analysis of Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms) -->
+- [grind 75] (https://www.techinterviewhandbook.org/grind75)
+- [Top 150 by alphabet150](https://alphabet150.com/)
+- [Top 100 Liked Questions](https://leetcode.com/problem-list/top-100-liked-questions/)
+- [More DSA Study Guide] (https://drive.google.com/file/d/1432uafXuw_lmcnm_HRRhBkqM298ljDKb/view)
+
+## Puzzles
+- [interviewbit puzzles](https://www.interviewbit.com/puzzles/)
+- [geeksforgeeks Puzzles](https://www.geeksforgeeks.org/puzzles/)
+
+## Core CS Topics
+- [Most asked core computer science questions in interviews](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
+- [summary on OS, Netwroking, DMBS (Okay-ish stuff)](https://github.com/workattech/core-cs-os-networks-dbms)
+
+## Database
+- [Database Design Tips | Choosing the Best Database in a System Design Interview](https://www.youtube.com/watch?v=cODCpXtPHbQ&ab_channel=codeKarle)
+
+## Java & Spring/Spring boot stuff 
+- [Mkyong - Learn java and Spring](https://mkyong.com/)
+- [Baeldung- Java and Spring](https://www.baeldung.com/)
+ 
+## LLD, HLD and Design Pattern 
+- [SOLID Principles](https://www.youtube.com/watch?v=gumM1H4qLUM)
+- [System design primer by Donne Martin] (https://github.com/donnemartin/system-design-primer)
+- [Design Patterns by HowToDoInJava](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
+- [Low level design primer (Machine Coding) by Prasad Gujar)](https://github.com/prasadgujar/low-level-design-primer)
+
+## Miscellaneous 
+- [microservices.io](https://microservices.io/patterns/microservices.html)
+- [DefogTech Youtube (Java, System design, Microservices)](https://www.youtube.com/c/DefogTech/featured)
+
+## Most frequent asked questions
+- ACID principle
+- Sql vs NoSQL (https://www.interviewbit.com/blog/sql-vs-nosql/)
+- Database Indexing
+- SOLID Principles
+- CAP theorem
+- The advantages and disadvantages of Monolith and Microservices architectures
+- Design Patterns
+
